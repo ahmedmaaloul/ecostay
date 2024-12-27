@@ -1,0 +1,1266 @@
+url,reason
+https://www.booking.com/hotel/fr/le-bellune-paris1.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988842&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x00000001027d3184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001027cb9d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001022387d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x000000010227dcd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x0000000102273474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x0000000102272ec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001022b65b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x0000000102271568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x00000001022721b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010279e9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x00000001027a1ccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010278586c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x00000001027a258c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010277709c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001027bc4b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x00000001027bc634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x00000001027cb648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/exe-paris-centre.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988842&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x00000001027d3184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001027cb9d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001022387d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x000000010227dcd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x0000000102273474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x0000000102272ec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001022b65b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x0000000102271568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x00000001022721b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010279e9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x00000001027a1ccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010278586c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x00000001027a258c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010277709c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001027bc4b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x00000001027bc634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x00000001027cb648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/le-bellune-paris1.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988842&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/exe-paris-centre.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988842&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/ibis-styles-paris-16-sud.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=106&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/pullman-paris-bercy.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=107&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/amelie.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=108&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/du-jeu-de-paume.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=109&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/louvre-forum.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=110&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/jules-cesar-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=111&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/holiday-inn-paris-opera-grands-boulevards.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=112&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/novotel-paris-vaugirard.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=113&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/villa-marquis-member-of-melia-collection.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=114&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/seven.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=115&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/the-people-paris-marais.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=116&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/maison-colbert-member-of-melia-collection.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=117&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/ibis-styles-paris-gare-saint-lazare.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=118&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/artus.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=119&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/intercontinental-paris-le-grand.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=120&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/snob-by-elegancia.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=121&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/chouchou-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=122&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/b-amp-b-paris-porte-de-la-villette.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=123&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/les-piaules.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=124&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/holiday-inn-paris-republique.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=125&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988945&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/paris-bastille-boutet.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=126&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/lord-byron.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=127&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/echiquier-opera-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=128&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/avaitic.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=129&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/novotel-paris-les-halles.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=130&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/leopold.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=131&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/vinci-due.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=132&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/novotel-paris-gare-montparnasse.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=133&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/courtyard-by-marriott-paris-gare-de-lyon.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=134&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/le-pradey.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=135&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/pacific-montmartre-nord.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=136&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/ibis-budget-porte-d-orleans-paris-14.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=137&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/hilton-paris-opera.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=138&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/maison-albar-paris-celine.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=139&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734988994&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/sofitel-le-faubourg.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=170&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/de-buci.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=171&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/renaissance-paris-le-parc-trocadero.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=172&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/mercure-paris-boulevard-magenta.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=173&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/sofitel-arc-de-triomphe.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=174&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/melia-vendome-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=175&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989046&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/ascott-arc-de-triomphe-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=176&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/kimpton-st-honore-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=177&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/hyatt-paris-madeleine.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=178&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/de-seine.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=179&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/paris-marriott-champs-elysees.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=180&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/vernet.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=181&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/the-peninsula-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=182&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/edgar-suites-louvre-jour.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=183&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/saint-james-paris.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=184&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/paris-porte-de-versailles-expo.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=185&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
+https://www.booking.com/hotel/fr/baltimore-paris-champs-elysees-mgallery-collection.fr.html?aid=304142&label=gen173nr-1FCAQoggJCDHNlYXJjaF9wYXJpc0gzWARoTYgBAZgBDbgBB8gBDNgBAegBAfgBA4gCAagCA7gC96enuwbAAgHSAiQ5ZjEyZmI3YS05ZmIwLTQ3ZmYtYjM4My0yZGZmNDVmZTA5YTHYAgXgAgE&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=186&sr_order=popularity&nflt=SustainablePropertyLevelFilter%3D4&srpvid=524095fbb1e5017d&srepoch=1734989095&from_sustainable_property_sr=1&from=searchresults,"Message: element not interactable
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+0   chromedriver                        0x000000010269f184 cxxbridge1$str$ptr + 3626716
+1   chromedriver                        0x00000001026979d4 cxxbridge1$str$ptr + 3596076
+2   chromedriver                        0x00000001021047d8 cxxbridge1$string$len + 88828
+3   chromedriver                        0x0000000102149cd4 cxxbridge1$string$len + 372728
+4   chromedriver                        0x000000010213f474 cxxbridge1$string$len + 329624
+5   chromedriver                        0x000000010213eec8 cxxbridge1$string$len + 328172
+6   chromedriver                        0x00000001021825b4 cxxbridge1$string$len + 604376
+7   chromedriver                        0x000000010213d568 cxxbridge1$string$len + 321676
+8   chromedriver                        0x000000010213e1b8 cxxbridge1$string$len + 324828
+9   chromedriver                        0x000000010266a9ac cxxbridge1$str$ptr + 3411716
+10  chromedriver                        0x000000010266dccc cxxbridge1$str$ptr + 3424804
+11  chromedriver                        0x000000010265186c cxxbridge1$str$ptr + 3308996
+12  chromedriver                        0x000000010266e58c cxxbridge1$str$ptr + 3427044
+13  chromedriver                        0x000000010264309c cxxbridge1$str$ptr + 3249652
+14  chromedriver                        0x00000001026884b8 cxxbridge1$str$ptr + 3533328
+15  chromedriver                        0x0000000102688634 cxxbridge1$str$ptr + 3533708
+16  chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 3595168
+17  libsystem_pthread.dylib             0x00000001848dc2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x00000001848d70fc thread_start + 8
+"
