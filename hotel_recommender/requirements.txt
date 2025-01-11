@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+transformers
+torch
+spellchecker
+nltk
+googletrans==4.0.0rc1
+emoji
+contractions
