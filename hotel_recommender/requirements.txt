@@ -5,7 +5,7 @@ numpy
 scikit-learn
 transformers
 torch
-spellchecker
+pyspellchecker
 nltk
 googletrans==4.0.0rc1
 emoji

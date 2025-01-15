@@ -14,6 +14,9 @@ COPY requirements.txt .
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Download NLTK data
+RUN python -m nltk.downloader stopwords wordnet
+
 COPY . /app/
 
 EXPOSE 8000
