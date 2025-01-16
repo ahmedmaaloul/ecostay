@@ -1,11 +1,24 @@
 import pandas as pd
 import numpy as np
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware  # Import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 from .recommender import HotelRecommender
 
 app = FastAPI()
+origins = [
+    "http://localhost:5173",  # Frontend origin
+    "http://localhost:8000",  # Backend origin 
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # Allows specified origins
+    allow_credentials=True,
+    allow_methods=["*"],     # Allows all HTTP methods
+    allow_headers=["*"],     # Allows all headers
+)
 
 df = pd.read_pickle('app/models/hotel_data.pkl')
 df['combined_embedding'] = df['combined_embedding'].apply(lambda x: np.array(x) if isinstance(x, (list, np.ndarray)) else x)
