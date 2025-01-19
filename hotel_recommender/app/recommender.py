@@ -72,4 +72,4 @@ class HotelRecommender:
             self.gamma * self.df['subscore_score']
         )
         top_hotels = self.df.sort_values(by='final_score', ascending=False).head(top_n)
-        return top_hotels[['Name', 'Rating', 'HotelLink', 'full_description', 'address']]
+        return top_hotels[['Name', 'Rating', 'HotelLink', 'full_description_en', 'address','images_parsed']]
