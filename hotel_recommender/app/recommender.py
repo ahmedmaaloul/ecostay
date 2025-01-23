@@ -52,24 +52,38 @@ class HotelRecommender:
         self.beta = beta
         self.gamma = gamma
         self.hotel_embeddings = np.stack(self.df['combined_embedding'].values)
-    
+        self.translator = Translator()
+
     def recommend(self, user_query: str, user_lat: float, user_lng: float, top_n: int = 5) -> pd.DataFrame:
-        translated_query = translator.translate(user_query, dest='en').text
+        translated_query = self.translator.translate(user_query, dest='en').text
         cleaned_query = advanced_cleaning_pipeline(translated_query)
         user_embedding = roberta_encode(cleaned_query)
         similarities = cosine_similarity(self.hotel_embeddings, user_embedding.reshape(1, -1)).flatten()
-        self.df['semantic_similarity'] = similarities
-        self.df['distance_km'] = self.df.apply(
+
+        # Calculate location score
+        distance_km = self.df.apply(
             lambda row: haversine_distance(user_lat, user_lng, row['lat'], row['lng']),
             axis=1
         )
-        self.df['location_score'] = 1 / (1 + self.df['distance_km'])
+        location_score = 1 / (1 + distance_km)
+
+        # Calculate subscore score
         subscore_columns = ['Personnel', 'Equipment', 'Cleanliness', 'Comfort', 'Value for money', 'Geographic location', 'Free Wi-Fi']
-        self.df['subscore_score'] = self.df[subscore_columns].mean(axis=1) / 10
-        self.df['final_score'] = (
-            self.alpha * self.df['semantic_similarity'] +
-            self.beta * self.df['location_score'] +
-            self.gamma * self.df['subscore_score']
+        subscore_score = self.df[subscore_columns].mean(axis=1) / 10
+
+        # Calculate final score
+        final_score = (
+            self.alpha * similarities +
+            self.beta * location_score +
+            self.gamma * subscore_score
         )
-        top_hotels = self.df.sort_values(by='final_score', ascending=False).head(top_n)
-        return top_hotels[['Name', 'Rating', 'HotelLink', 'full_description_en', 'address','images_parsed']]
+
+        # Create a temporary DataFrame for recommendations
+        recommendations_df = self.df.copy()
+        recommendations_df['final_score'] = final_score
+
+        # Select top_n hotels based on final_score
+        top_hotels = recommendations_df.sort_values(by='final_score', ascending=False).head(top_n)
+
+        # Return only the necessary columns
+        return top_hotels[['Name', 'Rating', 'HotelLink', 'full_description_en', 'address', 'images_parsed']]
